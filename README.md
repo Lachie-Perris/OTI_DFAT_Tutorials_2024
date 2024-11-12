@@ -17,7 +17,7 @@ Follow the installation instructions for your operating system.
 
 Open a terminal or command prompt and run the following command:
 
-    git clone https://github.com/rvdeo/one_tree_Tutorial_pt_adv_ctd_adcp_radwave.git
+    git clone https://github.com/Lachie-Perris/OTI_DFAT_Tutorials_2024.git
 
 ## Step 3: Create and Activate a Virtual Environment
 
