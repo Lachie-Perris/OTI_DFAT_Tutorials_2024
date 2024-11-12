@@ -1,7 +1,7 @@
 
 # Data Processing Workshop ( PT, ADV, CTD, ADCP, RADWave)
 
-This notebook can be accessed via binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lacchie-perris/one_tree_Tutorial_adv_ctd_adcp_radwave.git/main)
+This notebook can be accessed via binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh//Lachie-Perris/OTI_DFAT_Tutorials_2024.git/main)
 
 Alternatively, you can install it locally using Anaconda.
 
